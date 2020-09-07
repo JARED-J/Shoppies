@@ -1,0 +1,3 @@
+export const DELETE_NOMINEE = 'DELETE_NOMINEE';
+export const ADD_NOMINEE = 'ADD_NOMINEE';
+export const FETCH_RESULTS = 'FETCH_RESULTS';
